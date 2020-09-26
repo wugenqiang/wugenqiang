@@ -33,18 +33,18 @@ Here are some ideas to get you started:
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://github.com/wugenqiang">
-    <img src="https://badges.pufler.dev/visits/puf17640/puf17640?style=flat-square&color=black&logo=github">
+    <img src="https://github.com/wugenqiang/visits/puf17640/puf17640?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/wugenqiang">
-    <img src="https://badges.pufler.dev/years/puf17640?style=flat-square&color=black&logo=github">
+    <img src="https://github.com/wugenqiang/years/puf17640?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/wugenqiang">
-    <img src="https://badges.pufler.dev/repos/puf17640?style=flat-square&color=black&logo=github">
+    <img src="https://github.com/wugenqiang/repos/puf17640?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/wugenqiang">
-    <img src="https://badges.pufler.dev/gists/puf17640?style=flat-square&color=black&logo=github">
+    <img src="https://github.com/wugenqiang/gists/puf17640?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/wugenqiang">
-    <img src="https://badges.pufler.dev/commits/monthly/puf17640?style=flat-square&color=black&logo=github">
+    <img src="https://github.com/wugenqiang/commits/monthly/puf17640?style=flat-square&color=black&logo=github">
   </a>
 </p>
