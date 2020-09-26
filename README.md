@@ -29,6 +29,10 @@ Here are some ideas to get you started:
   <a href= "https://cdn.jsdelivr.net/gh/wugenqiang/PictureBed/images01/20200808182633.jpg" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
   </a>
+  &emsp;
+  <a href="https://notebook.js.org" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/256/000000/coffee.png" width="30px"/>
+  </a> 
   <br><br>
   <strong>Check out my work below!</strong>
   
